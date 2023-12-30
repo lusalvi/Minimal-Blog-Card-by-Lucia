@@ -1,0 +1,49 @@
+body{
+    background-color: #FAFAF9;
+}
+.card{
+    background-color: #FFFFFF;
+    width: 336px;
+    padding: 16px 16px 20px;
+    margin: 164px auto 165px auto;
+    border-radius: 20px;
+    box-shadow: 1px 5px 0px 5px rgba(0, 0, 0, 0.021);
+}
+
+.card img{
+    border-radius: 10px;
+}
+h1, p, .boton{
+    font-family: 'Sora', sans-serif;
+}
+
+h1{
+    font-size: 18px;
+    margin: 0 0 6px 0 ;
+}
+
+.paragraph{
+    font-size: 14px;
+    margin: 0 0 20px 0;
+    color: #6C727F;
+}
+
+.name{
+    font-size: 12px;
+    color: #6C727F;
+    margin-top: 20px;
+}
+
+.boton{
+    font-size: 10px;
+    background-color: #E6D6FC;
+    color: #883AE1;
+    border: 0px;
+    padding: 6px 16px 6px;
+    border-radius: 20px;
+    margin: 16px 0 16px 0;
+}
+
+hr{
+    width: 100%;
+}
